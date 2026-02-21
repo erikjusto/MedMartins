@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medmartinspericias.com.br/sitemap.xml
